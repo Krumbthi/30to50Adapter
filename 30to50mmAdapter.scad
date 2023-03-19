@@ -1,16 +1,12 @@
 /*
- * 30mm threaded to Olympic Barbell (2 inch / 50mm) adapter 
+ * 30mm to Olympic Barbell (2 inch / 50mm) adapter 
  * Double check dimensions of your barbell dimensions before printing.
  * This is 10 hours+ print, and it is a tight fit for *my* barbell:
  * My barbell screw:
  *  - 30 mm external diameter
  *
  * Hantelscheibe:
- *  - Breite: 75 mm
- *
- *  - 6.5 mm pitch
- *  - 3.5 mm wide
- *  - 1.5 mm deep
+ *  - Breite Kern: 75 mm
  *
  * Olympic barbell weight ending specs:
  *  - 49.4 mm - 49.56 mm diameter
