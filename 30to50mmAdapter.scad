@@ -19,7 +19,7 @@
  */
 
 $fn=128;
-inner_diameter = 30;
+inner_diameter = 30.2;
 outer_diameter = 50;
 stopper_diameter = 76;
 stopper_height = 5;
